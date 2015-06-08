@@ -32,7 +32,6 @@ The sample course below is heavily based on a course found on Prakhar's reposito
 Group work is encouraged! If students would like to, they can work in pairs on the homeworks and in groups of up to 4 on the final project (if applicable). This collaboration on the homeworks will give students more resources in a course that could get very challenging due to lack of a professor. Similarly, a piazza should be set up for each course/semester. These two things will help students stick to the timetable, get help as needed and promote discussion/further thought.
 
 ## [Template](./template_proposal.md)
-## [Sample proposal for CS 39000-EME: Haskell](https//github.com/scottopell/emerging-tech-haskell)
 
 ## Courses Offered
 - 
