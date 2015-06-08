@@ -34,4 +34,4 @@ Group work is encouraged! If students would like to, they can work in pairs on t
 ## [Template](./template_proposal.md)
 
 ## Courses Offered
-- 
+- [Haskell](./haskell.md)
