@@ -33,3 +33,6 @@ Group work is encouraged! If students would like to, they can work in pairs on t
 
 ## [Template](./template_proposal.md)
 ## [Sample proposal for CS 39000-EME: Haskell](https//github.com/scottopell/emerging-tech-haskell)
+
+## Courses Offered
+- 
