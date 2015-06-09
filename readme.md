@@ -1,3 +1,4 @@
+# **DRAFT** Not an official Purdue course (...yet)
 # CS 390 - Emerging Technologies
 
 This repository will maintain a list of CS 39000-EME approved courses on GitHub at [PurdueCS/courses](https://github.com/purduecs/courses). This repo will be initially set up and maintained by Prof. Dunsmore, Scott Opell and Alec Gorge.
